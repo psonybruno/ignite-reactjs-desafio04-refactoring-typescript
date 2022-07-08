@@ -29,9 +29,9 @@ Essa será uma aplicação já funcional onde o seu principal objetivo é rea
 - [x] src/components/Input/index.jsx;
 - [x] src/components/Input/styles.js;
 - [x] src/components/Modal/index.jsx;
-- [ ] src/components/ModalAddFood/index.jsx;
+- [x] src/components/ModalAddFood/index.jsx;
 - [x] src/components/ModalAddFood/styles.js;
-- [ ] src/components/ModalEditFood/index.jsx;
+- [x] src/components/ModalEditFood/index.jsx;
 - [x] src/components/ModalEditFood/styles.js;
 - [x] src/pages/Dashboard/index.jsx;
 - [x] src/pages/Dashboard/styles.js;
